@@ -1,6 +1,8 @@
 # 🎒 About Me:
 
-💻 **Computer Scientist** with a strategic focus on **User Experience (UX)** and **Innovation**  <br>• Experience in **UX Design**, **Innovation**, and **Agile Project Management**  <br>• Skilled in designing and leading digital solutions that integrate **technology and learning**  <br>• Hands-on experience with **Design Sprint**, **Design Thinking**, and **Scrum** methodologies  <br>• Strong communication skills with **clients and stakeholders**, supported by a background in education  <br>• Ability to understand complex needs, anticipate challenges, and deliver **measurable, high-value results**
+💻 **Computer Scientist** with a strategic focus on **User Experience (UX)** and **Innovation**  
+
+<br>• Experience in **UX Design**, **Innovation**, and **Agile Project Management**  <br>• Skilled in designing and leading digital solutions that integrate **technology and learning**  <br>• Hands-on experience with **Design Sprint**, **Design Thinking**, and **Scrum** methodologies  <br>• Strong communication skills with **clients and stakeholders**, supported by a background in education  <br>• Ability to understand complex needs, anticipate challenges, and deliver **measurable, high-value results**
 
 
 ## 🌐 Socials:
@@ -11,15 +13,15 @@
 
 # 📊 GitHub Stats:
 
-![](https://nirzak-streak-stats.vercel.app/?user=marcelosfilho13&theme=dracula&hide_border=false)<br/></br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosfilho13&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)</br>
+<div align='center'>
+  ![](https://nirzak-streak-stats.vercel.app/?user=marcelosfilho13&theme=dracula&hide_border=false)<br/></br>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosfilho13&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)</br>
+</div>
 
 ### ✨ Random Dev Quote
 
 > "Coragem!"  
 > — *Pde. Carlo Paris*
-
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=marcelosfilho13&icon=7&color=4)](https://visitcount.itsvg.in)
