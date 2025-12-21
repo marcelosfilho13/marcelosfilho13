@@ -14,7 +14,6 @@
 # 📊 GitHub Stats:
 <div align='center'>
 
-![](https://nirzak-streak-stats.vercel.app/?user=marcelosfilho13&theme=dracula&hide_border=false)<br/></br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelosfilho13&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)</br>
 
 </div>
