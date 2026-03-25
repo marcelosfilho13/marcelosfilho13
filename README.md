@@ -1,9 +1,12 @@
 # 🎒 About Me:
 
-💻 **Computer Scientist** with a strategic focus on **User Experience (UX)** and **Innovation**  
+💻 **Building the Future with Technology Through the Lens of UX.**  
 
-<br>• Experience in **UX Design**, **Innovation**, and **Agile Project Management**  <br>• Skilled in designing and leading digital solutions that integrate **technology and learning**  <br>• Hands-on experience with **Design Sprint**, **Design Thinking**, and **Scrum** methodologies  <br>• Strong communication skills with **clients and stakeholders**, supported by a background in education  <br>• Ability to understand complex needs, anticipate challenges, and deliver **measurable, high-value results**
+I am a Computer Scientist and Founder of YellowBagEdu, a startup from Pará focused on Creative & Technological Education. Passionate about the intersection between technology and learning, I use agile methodologies and software development & design processes to solve complex problems.
 
+My mission is to connect the Amazon innovation ecosystem with global best practices in technology and education, delivering digital and educational solutions that are technically scalable and deeply human-centered.
+
+"Courage!" – Fr. Carlo Paris
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/msaldanha.yellowbagedu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/marcelosfilho-yellowbagedu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marcelosfilho.fundador@yellowbagedu.com) 
