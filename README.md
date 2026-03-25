@@ -6,8 +6,6 @@ I am a Computer Scientist and Founder of YellowBagEdu, a startup from Pará focu
 
 My mission is to connect the Amazon innovation ecosystem with global best practices in technology and education, delivering digital and educational solutions that are technically scalable and deeply human-centered.
 
-"Courage!" – Fr. Carlo Paris
-
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/msaldanha.yellowbagedu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/marcelosfilho-yellowbagedu) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marcelosfilho.fundador@yellowbagedu.com) 
 
